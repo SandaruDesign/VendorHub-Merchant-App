@@ -34,7 +34,7 @@ VendorHub is an all-in-one business management platform built for merchants to m
 #### 🌙 Dark Mode UI Samples
 *(A comprehensive view of the dark theme application)*
 
-![Dark Mode Samples](dark-mode-image.png)
+![Dark Mode Samples](dark mode.png)
 
 ---
 
